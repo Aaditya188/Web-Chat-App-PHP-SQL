@@ -1,1 +1,1 @@
-# Web-Chat-App-PHP-SQL-
+# Web-Chat-App-PHP-SQL
